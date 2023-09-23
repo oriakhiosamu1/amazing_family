@@ -1,0 +1,8 @@
+.custom_button{
+    color: white;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 1.5px;
+    border-color: white;
+    padding: 20px;
+}
